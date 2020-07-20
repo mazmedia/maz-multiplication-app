@@ -1,0 +1,19 @@
+{
+  "name": "tables-upto-twenty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node src/index.js",
+    "develop": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "nodemon": "^2.0.4"
+  }
+}
